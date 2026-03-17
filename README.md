@@ -29,4 +29,4 @@ ASMA_Final_Timeline.png: output of the analysis.
 
 Citation
 If using this code or dataset for your own research, please cite:
-TAKANAMI DE OLIVEIRA, A. (2026). PIEZO1 AGONISM AS AN ADDITIONAL COUNTERMEASURE FOR SPACE BONE LOSS AND POTENTIAL MULTISYSTEM PROTECTION. Aerospace Medical Association (AsMA) Annual Scientific Meeting 2026.
+TAKANAMI DE OLIVEIRA, A. (2026). PIEZO1 AGONISM AS AN ADDITIONAL COUNTERMEASURE FOR SPACE BONE LOSS AND POTENTIAL MULTISYSTEM PROTECTION. Aerospace Medical Association (AsMA) 96th Annual Scientific Meeting, [Denver, Colorado/United States of America].
